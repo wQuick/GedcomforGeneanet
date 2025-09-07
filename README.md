@@ -1,3 +1,11 @@
+
+Warning
+
+Ce dépot est obsolete
+utilisez le depot (./https://github.com/grocanar/glopglop-addons) pour les binaires
+et
+[https://github.com/grocanar/glopglop-addons-sources) pour les binaire
+
 # Greffons GedcomforGeneanet
 
 Greffon pour améliorer l'export gedcom pour le rendre plus compatible avec Geneanet.
